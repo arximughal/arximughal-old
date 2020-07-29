@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, this is Muhammad Arslan Aslam <img src="/programmer.png" align="right" width="400" />
+# Hi 👋, this is Muhammad Arslan Aslam <img src="programmer.png" align="right" width="400" />
 
 I am a Software Engineer based in Lahore, Pakistan. Currently, I am working as full-time Software Engineer [@BrandJaws](https://github.com/BrandJaws).
 
